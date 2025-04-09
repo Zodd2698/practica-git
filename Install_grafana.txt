@@ -1,4 +1,4 @@
-Install Grafana Instructions - branch readme
+Install Grafana Instructions - branch readme 1
 1. Copy paste the following in a YAML file, name it grafana.yaml
 datasources:
   datasources.yaml:
